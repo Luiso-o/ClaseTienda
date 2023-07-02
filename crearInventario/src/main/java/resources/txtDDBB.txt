@@ -1,0 +1,7 @@
+1 Tree 3.0 3.4
+6 Decoration 6.0 PLASTIC
+8 Decoration 5.6 Plastic
+22 Tree 4.0 10.0
+23 Tree 4.0 4.0
+21 Flor Verde 8.0
+26 Flower 6.0 Azul
